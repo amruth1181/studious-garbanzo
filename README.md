@@ -1,2 +1,2 @@
 # studious-garbanzo
-Daily leetcode questions
+AI stuff Daily
